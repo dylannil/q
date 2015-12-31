@@ -1,0 +1,25 @@
+{
+  "name": "q",
+  "version": "1.0.0",
+  "description": "Library for promises in browsers",
+  "scripts": {
+    "test": "promises-aplus-tests test/spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhonglong/q.git"
+  },
+  "keywords": [
+    "Promise",
+    "A+"
+  ],
+  "author": "Li Xiao-Bo <xiaoboleee@gmail.com> (http://muhonglong.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muhonglong/q/issues"
+  },
+  "homepage": "https://github.com/muhonglong/q#readme",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.1"
+  }
+}
