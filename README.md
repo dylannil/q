@@ -1,3 +1,4 @@
+<a href="https://promisesaplus.com/"><img src="https://promisesaplus.com/assets/logo-small.png" align="right" /></a>
 Q — library for promises
 ==================================================
 
