@@ -9,9 +9,9 @@ This implementation is quite small, and it is easy to merge into other code with
 Environments in which to use Q
 --------------------------------------------------
 
--Browser support
--Nodejs
--Browser extensions
+- Browser support
+- Nodejs
+- Browser extensions
 
 Runing the Unit Tests
 --------------------------------------------------
