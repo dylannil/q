@@ -1,5 +1,5 @@
 <a href="https://promisesaplus.com/"><img src="https://promisesaplus.com/assets/logo-small.png" align="right" /></a>
-Q — library for promises
+Q — library for promises [![Build Status](https://travis-ci.org/muhonglong/q.svg)](https://travis-ci.org/muhonglong/q)
 ==================================================
 
 [Promise/A+](https://promisesaplus.com/) is the specification what this implementation follow. It can be used in any allowed way under Promise/A+.
